@@ -4,4 +4,4 @@ This course is intended to demonstrate foundational Python skills for working wi
 
 This course is part of the IBM Data Science Professional Certificate and the IBM Data Analytics Professional Certificate.
 
-Course: (Python Project for Data Science)[https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science]
+Course: [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science)
